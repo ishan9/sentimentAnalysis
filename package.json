@@ -1,0 +1,16 @@
+{
+  "name": "sentimentanalysis",
+  "version": "1.0.0",
+  "description": "Analyzes a message and show sentiment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "Ishan",
+  "license": "ISC"
+}
